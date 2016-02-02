@@ -12,7 +12,6 @@ Some of the tech I'm using are:
 >-forms
 >-routers
 >-http
->-using fetch for http
 >-typescript
 >-System.js
 
